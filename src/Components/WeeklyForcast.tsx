@@ -1,5 +1,5 @@
 // import React from "react";
-import React, { useState } from "react";
+import React from "react";
 // import Rain from "../assets/Rain.png";
 import dayjs from "dayjs";
 // import sky from "../assets/Sky.png";
